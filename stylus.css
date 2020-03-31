@@ -1,0 +1,52 @@
+
+body {
+	background:url('scene.jpg');
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#div1 {
+	background : black;
+	padding: 10px;
+	width:800px;
+	color: white;
+	margin-left: 22.5%;
+	margin-right: 25%;
+	border-radius: 10px;
+	text-align: center;
+}
+h1{
+	
+	font-size : 30px;
+	background: #75C1F6;
+	color: black;
+	padding: 5px;
+	border-radius: 5px;
+}
+#div2{
+	background : chocolate;
+	padding: 10px;
+	width:500px;
+	color: white;
+	margin-left: 33%;
+	margin-right: 25%;
+	border-radius: 10px;
+}
+h2{
+	color: white;
+}
+#div3{
+	background : transparent;
+	padding: 10px;
+	width:1211px;
+	color: white;
+	margin-left: 8%;
+	margin-right: 25%;
+	border-radius: 10px;
+}
+#sn{
+	align-content: right;
+}
